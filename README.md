@@ -11,6 +11,8 @@
   <a href="https://trendshift.io/repositories/14736" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14736" alt="VectifyAI%2FPageIndex | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
+# PageIndex: Vectorless, Reasoning-based RAG
+
 <p align="center"><b>Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB&nbsp; ◦ &nbsp;No Chunking&nbsp; ◦ &nbsp;Human-like Retrieval</b></p>
 
 <h4 align="center">
@@ -26,7 +28,7 @@
 
 
 <details open>
-<summary><h2>📢 Latest Updates</h2></summary>
+<summary><h3>📢 Latest Updates</h3></summary>
 
  **🔥 Releases:**
 - [**PageIndex Chat**](https://chat.pageindex.ai): The first human-like document-analysis agent [platform](https://chat.pageindex.ai) built for professional long documents. Can also be integrated via [MCP](https://pageindex.ai/mcp) or [API](https://docs.pageindex.ai/quickstart) (beta).
@@ -60,7 +62,7 @@ It simulates how *human experts* navigate and extract knowledge from complex doc
   </a>
 </div>
 
-### 🎯 Features 
+### 🎯 Core Features 
 
 Compared to traditional vector-based RAG, **PageIndex** features:
 - **No Vector DB**: Uses document structure and LLM reasoning for retrieval, instead of vector similarity search.
@@ -230,6 +232,25 @@ Explore the full [benchmark results](https://github.com/VectifyAI/Mafin2.5-Finan
 ---
 
 # ⭐ Support Us
+Please cite this work as:
+```
+Mingtian Zhang, Yu Tang and PageIndex Team,
+"PageIndex: Next-Generation Vectorless, Reasoning-based RAG",
+PageIndex Blog, Sep 2025.
+```
+
+Or use the BibTeX citation:
+
+```
+@article{zhang2025pageindex,
+  author = {Mingtian Zhang and Yu Tang and PageIndex Team},
+  title = {PageIndex: Next-Generation Vectorless, Reasoning-based RAG},
+  journal = {PageIndex Blog},
+  year = {2025},
+  month = {September},
+  note = {https://pageindex.ai/blog/pageindex-intro},
+}
+```
 
 Leave us a star 🌟 if you like our project. Thank you!  
 
